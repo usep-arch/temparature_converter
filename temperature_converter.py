@@ -1,5 +1,4 @@
 # temperature_converter.py
-# temperature_converter.py
 
 
 class TemperatureConverter:
